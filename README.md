@@ -1,5 +1,5 @@
-# acing-DS-Questions-Interview
-This will aid you prepare for an interview
+# Acing DS Interview Questions
+This will aid you in preparing for a DS interview
 
 # Pandas
 import pandas as pd
